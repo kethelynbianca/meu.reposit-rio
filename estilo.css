@@ -1,0 +1,23 @@
+body{background-color: rgb(202, 245, 173);}
+
+h1{ color: darkred; text-align: center; }
+
+p{ font-size: 20px; text-align:justify;}
+
+table {  width: 100%;  border-collapse: collapse;}
+
+th, td { padding: 8px; text-align: left; border: 1px solid #f5c4fc;}
+
+tr:nth-child(even) { background-color: #fbeafd;}
+
+h2{ font-size: 15px;}
+
+ul { list-style-type: style disc;;}
+li { line height: 1.5em;; }
+li:hover, .active {  background-color:#a8def7!important;}
+
+a {  color: blue;
+    text-decoration: none;}
+
+a:hover {  color: red;
+    text-decoration: underline;}
